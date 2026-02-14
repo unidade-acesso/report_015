@@ -6,7 +6,7 @@ owner: "SNS 24"         # Entre as aspas escrever o nome do owner do website
 seal: "Ouro"                          # Entre as aspas escreve Bronze, Prata ou Ouro
 ---
 
-# SNS 24 (área pública)
+# SNS 24
 
 - Data de criação: 16/02/2026
 - URL: https://www.sns24.gov.pt/pt/inicio
