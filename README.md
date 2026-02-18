@@ -15,11 +15,11 @@ seal: "Ouro"                          # Entre as aspas escreve Bronze, Prata ou 
 
 ## Relatório de Auditoria
 
-Consulte aqui a última atualização: [Relatório da Auditoria SNS 24](report.html)
+Consulte aqui a última atualização: [Relatório da Auditoria SNS 24](16022026_report_015.html)
 
 <details>
   <summary>Histórico de atualizações</summary>
   <ul aria-label="lista de relatórios já efetuados">
-    <li><a href="ddmmaaaa_report.html">(dd/mm/aaaa). Relatório do {{ page.website }}</a></li>
+    <li><a href="16022026_report_015.html">(16/02/2026). Relatório do SNS 24</a></li>
   </ul>
 </details>
