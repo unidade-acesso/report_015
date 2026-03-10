@@ -2,7 +2,7 @@
 website: "SNS 24"          # Entre as aspas escreve o nome do website
 date: "16/02/2026"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
 uri: "https://www.sns24.gov.pt/pt/inicio/"   # Entre as aspas escreve o domínio do website
-owner: "SNS 24"         # Entre as aspas escrever o nome do owner do website
+owner: "Governo da República Portuguesa - Ministério da Saúde"         # Entre as aspas escrever o nome do owner do website
 seal: "Ouro"                          # Entre as aspas escreve Bronze, Prata ou Ouro
 ---
 
@@ -10,7 +10,7 @@ seal: "Ouro"                          # Entre as aspas escreve Bronze, Prata ou 
 
 - Data de criação: 16/02/2026
 - URL: https://www.sns24.gov.pt/pt/inicio
-- Propriedade: SNS 24
+- Propriedade: Governo da República Portuguesa - Ministério da Saúde
 - Candidatura: Ouro
 
 ## Relatório de Auditoria
