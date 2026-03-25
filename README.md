@@ -23,3 +23,6 @@ Consulte aqui a última atualização: [Relatório da Auditoria SNS 24](16022026
     <li><a href="16022026_report_015.html">(16/02/2026). Relatório do SNS 24</a></li>
   </ul>
 </details>
+
+## Declaração de Acessibilidade
+https://www.sns24.gov.pt/pt/acessibilidade/
